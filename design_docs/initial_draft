@@ -1,0 +1,14 @@
+Distributed System design for Big Data Systems course project.
+
+The core idea is to build a framework for simulating real world physical distributed systems.
+The first attempt at this system was the GPS constellation in the Summer - Fall of 2025.
+I am now moving on to a more ambitious project in Simulating the multiple satellite constellations,
+first and foremost is the StarLink constellation. 
+This constellation is growing by the day, has over 9000 satellites in orbit, and presents unique 
+challenges when compared to the Older and higher-up constellations like the GPS constellation. 
+
+Since there are 9000 satellites, propagating their orbits with maximum precision represents a high
+efficiency/performance task for an individual developer in his homelab. 
+
+The requirements for the project are that I am working with gigabytes worth of data and
+taking advantage of the HDFS ecosystem to operated on a big data distributed system.
